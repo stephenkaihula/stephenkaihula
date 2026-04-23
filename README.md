@@ -1,169 +1,101 @@
-# 👋 Stephen Kaihula
+# 👋 Hi, I'm Stephen Kaihula
 
-**Senior Full Stack Systems Engineer**
-Real-time Streaming • Backend Infrastructure • Scalable Platforms
+Full Stack Systems Engineer specializing in **real-time systems, backend architecture, and scalable platforms**.
 
----
+I build production-style systems focused on:
 
-## 🚀 About Me
-
-I design and build **production-grade systems** across real-time streaming, backend infrastructure, and scalable web platforms.
-
-My work focuses on:
-
-* Real-time media systems (WebRTC, RTMP, FFmpeg)
-* Backend orchestration (Docker, APIs, automation)
-* Full-stack platform engineering (PHP, JavaScript, MySQL)
+* live streaming infrastructure
+* identity & access management
+* data-driven administrative platforms
 
 ---
 
-## 🧠 Core Engineering Focus
+## 🚀 Featured Projects
 
-* 🔴 Real-Time Systems & Streaming Pipelines
-* ⚙️ Backend Architecture & API Design
-* 📡 Media Infrastructure (FFmpeg, MediaMTX, LiveKit)
-* 🧩 Full Stack Development
-* 📊 Data Visualization Systems
-* 📱 Progressive Web Applications (PWA)
+### 🎬 Live Broadcast Studio
 
----
-
-## 📌 Featured Projects
-
-### 🎬 Live Broadcast Co-Producer Studio
-
-Browser-based broadcast control system replicating professional live production workflows.
+**Real-time browser-based broadcast control system**
 
 * Preview / Program switching (TAKE pipeline)
 * WebRTC streaming via LiveKit
-* RTMP ingestion via MediaMTX
-* Multi-panel modular control UI
+* RTMP ingestion via MediaMTX + FFmpeg
+* Modular UI for media, overlays, transitions, and audio
+
+🔗 https://github.com/stephenkaihula/live-broadcast-studio
 
 ---
 
-### ⚙️ Streaming Orchestration API
+### 📈 Membership Campaign Platform
 
-Backend system controlling streaming pipelines dynamically.
+**Organizational membership and campaign management system**
 
-* Dockerized FFmpeg execution
-* RTMP fanout architecture
-* Real-time pipeline control via REST API
+* Membership lifecycle and segmentation
+* Campaign and activity tracking workflows
+* Rule-based configuration engine
+* Geographic analytics and admin dashboards
 
----
-
-### 🎨 Media & Overlay Studio
-
-Real-time graphics and media composition system.
-
-* Timeline-based editing
-* Multi-layer composition engine
-* Background removal (AI + chroma key)
-* Broadcast overlay templates
+🔗 https://github.com/stephenkaihula/membership-campaign-platform
 
 ---
 
-### 📱 CareLog Pro (PWA)
+### 🔐 Identity Management System
 
-Offline-capable incident reporting platform.
+**Authentication, RBAC, and identity workflow platform**
 
-* Progressive Web App (installable + offline)
-* Structured reporting workflows
-* Secure backend (CSRF, sessions)
-* Timeline-based report tracking
+* Secure login, registration, and session handling
+* Role-based access control (user, staff, admin)
+* Multi-step identity application system
+* Staff processing workflows and admin governance
 
----
-
-### 📊 Public Data Intelligence Dashboard (Historical & Analytical)
-
-Interactive analytics platform using public datasets.
-
-* Multi-layer map visualization
-* API-driven data aggregation
-* Dashboard-style exploration
-
-> Uses public/sample datasets only (no sensitive data)
+🔗 https://github.com/stephenkaihula/identity-management-system
 
 ---
 
-### 📈 Platform for Member Growth
+## 🧠 Architecture Focus
 
-Scalable membership and engagement system.
+I design systems with clear separation of concerns:
 
-* Payment integration
-* Communication queue (email/SMS automation)
-* Rule-based engagement workflows
-* Member lifecycle tracking
+Frontend UI
+→ API Layer
+→ Business Logic
+→ Database / Infrastructure
 
----
+Key areas:
 
-### 🆔 Identity Creation Platform
-
-Secure identity and profile management system.
-
-* Authentication and session control
-* Role-based access management
-* Structured identity data modeling
+* real-time communication (WebRTC, RTMP)
+* backend service design
+* workflow-driven systems
+* modular UI architecture
 
 ---
 
-## 🏗️ Architecture Overview
+## ⚙️ Tech Stack
 
-```text
-Frontend (JavaScript UI)
-        ↓
-Backend APIs (PHP / REST)
-        ↓
-Services Layer (Auth, Queue, Processing)
-        ↓
-Infrastructure (Docker, FFmpeg, MediaMTX)
-        ↓
-Streaming / Data Outputs (WebRTC / RTMP / APIs)
-```
+**Languages**
+PHP, JavaScript, HTML, CSS
 
----
+**Systems & Tools**
+LiveKit, MediaMTX, FFmpeg, Docker
 
-## 🛠️ Tech Stack
+**Database**
+MySQL
 
-**Languages:**
-PHP • JavaScript • HTML • CSS
-
-**Backend & Infra:**
-Docker • Linux • Nginx • Apache • REST APIs
-
-**Streaming & Media:**
-FFmpeg • MediaMTX • LiveKit (WebRTC)
-
-**Database:**
-MySQL • MariaDB
+**Concepts**
+REST APIs, RBAC, streaming pipelines, system orchestration
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I Focus On
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stephenkaihula\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkaihula\&layout=compact)
-
----
-
-## ⚠️ Disclaimer
-
-All projects are built for engineering demonstration using public, test, or simulated datasets where applicable.
-No systems involve restricted or sensitive data.
-
----
-
-## 💡 Current Focus
-
-* Scaling real-time streaming systems
-* Optimizing media pipelines
-* Building production-ready platforms
+* building complete systems, not isolated features
+* turning complex workflows into usable platforms
+* designing scalable backend architectures
+* solving real-world operational problems
 
 ---
 
 ## 📫 Contact
 
 📧 [stephenkaihula@gmail.com](mailto:stephenkaihula@gmail.com)
-📍 Houston, TX
 
 ---
